@@ -49,7 +49,7 @@ pip install scikit-learn==1.3.2
 Run the main script:
 
 ```bash
-python 100675768_implementation.py
+python implementation.py
 ```
 
 The script will:
